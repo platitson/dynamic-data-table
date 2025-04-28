@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--color-slate-50);
+  background-color: var(--color-slate-900);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 2rem;
+}
